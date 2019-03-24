@@ -8,7 +8,7 @@ You can sign up for the application manually using your email and desired passwo
 
 # Using the Application
 
-The UI for the application has not been decided yet. Efforts are to make it user friendly. You can post suggestions about the preferred UI interface by creating an issue on the repository. Also, you can also demonstrate your ideas through your work on the application by creating pull requests which is described in the next section.
+The UI for the application has not been decided yet. The upcoming UI can be designed by employing Bootstrap, Vanilla or HTML/CSS/JS. Efforts are to make it user friendly.Suggestion dan be made using github repository.
 
 # Contributing to the Application
 
